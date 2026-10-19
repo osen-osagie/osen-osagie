@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, it's Osen ! 👋
 
 <p align="center">
   <img src="assets/images/banner.jpg" width="100%" alt="Profile Banner">
