@@ -33,11 +33,11 @@ I also have hands-on exposure across GRC, VAPT, and SOC workflows through a stru
 <h2>🏢 Organizations</h2>
 
 <p align="center">
-  <img src="assets/logos/pmi.jpg" height="70" alt="Project Management Institute">
+  <img src="assets/logos/project-management-institute.jpg" height="70" alt="Project Management Institute">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/eretmis.jpg" height="70" alt="Eretmis Inc.">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/achievers.jpg" height="70" alt="Achievers Early College Prep Charter School">
+  <img src="assets/logos/achievers-school.jpg" height="70" alt="Achievers Early College Prep Charter School">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/logging-security.jpg" height="70" alt="Logging Security Global">
 </p>
