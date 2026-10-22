@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_RESUME_PATH">My Resume</a>
+  <a href=" www.linkedin.com/in/osenosagie-grcanalyst">LinkedIn Profile</a> •
+  <a href="osen.osagie@gmail.com">Email</a> •
+  <a href="https://docs.google.com/document/d/11OvDMtI4E2aEcfnjhIx3yUevg9eSz0c1ZVJlawkOKgg/edit?tab=t.0">My Resume</a>
 </p>
 
 ---
